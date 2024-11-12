@@ -32,13 +32,3 @@ h3 {
     color: gray;
 }
 
-#camp {
-    border: 2px red solid; 
-    display: block;
-    justify-content: center;
-}
-
-#logo {
-    display: block;
-    align-content: center;
-}
