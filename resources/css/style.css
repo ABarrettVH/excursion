@@ -1,23 +1,30 @@
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: white;
     background-color: black;
     text-align: center;
 }
 
-.header h1 {
+
+/*headings*/
+
+.header {
     font-size: 50px;
     font-weight: normal;
+    color: white;
 }
 
-p {
+/*links*/ 
+
+.link {
     font-size: 16px;
     color: aquamarine;
 }
 
+/*second heading*/
 h2 {
     font-size: 42px;
     font-weight: 300;
+    color: white;
 }
 
 h3 {
